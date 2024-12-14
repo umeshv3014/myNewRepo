@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello 1
 hello 2
+=======
+>>>>>>> parent of bb75644 (first commit for revert)
 =======
 >>>>>>> parent of bb75644 (first commit for revert)
